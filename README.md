@@ -6,12 +6,15 @@ This project presents an AI-based system for the automated detection and segment
 ## Output
 ### Home page
 In this page, we have to upload the relevant MRI image.
+
 <img width="1920" height="864" alt="home" src="https://github.com/user-attachments/assets/0b844b6d-5e5a-4586-a54f-ebaaed03152e" />
 
 ### No Tumor
 If there is no Tumor detected, the following output will be shown.
+
 <img width="1920" height="758" alt="no_tumor" src="https://github.com/user-attachments/assets/926df5af-50ce-49e2-855e-3e14501dca68" />
 
 ### Tumor
 If Tumor detected, the infected part will be detected and the system will highlight it. Finally, the infected part will be segmented as shown below.
+
 <img width="1920" height="634" alt="tumor" src="https://github.com/user-attachments/assets/77dd3210-efe7-4794-870f-01952b02cba7" />
