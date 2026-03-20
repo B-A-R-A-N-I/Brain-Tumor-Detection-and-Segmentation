@@ -1,3 +1,3 @@
 # Brain Tumor Detection and Segementation
-Abstract:
+
 This project presents an AI-based system for the automated detection and segmentation of brain tumors from MRI images. The objective is to assist medical professionals by improving diagnostic accuracy and reducing analysis time. The dataset is preprocessed using grayscale conversion, normalization, and noise reduction techniques. The model was trained with multiple classifiers that includes Random Forest, SVC, Decision Tree and XGBoost and the best performing model which was SVC, is chosen to train the dataset. The system comprises two major components: a classification model to detect the presence of a tumor, and a U-Net-based Convolutional Neural Network (CNN) for segmenting the tumor region from MRI scans. The U-Net architecture accurately highlights tumor boundaries for further analysis. The project offers a reliable and efficient solution for early diagnosis and medical research support.
