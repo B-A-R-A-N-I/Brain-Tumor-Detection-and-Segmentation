@@ -1,4 +1,4 @@
-# Brain Tumor Detection and Segementation
+# Brain Tumor Detection and Segmentation
 
 ## About
 <p align="justify">
